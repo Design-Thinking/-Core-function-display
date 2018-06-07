@@ -10,9 +10,14 @@ This repository is for the detailed implementation of the core function of our d
 
 ## App developement logic
 
-移动端功能模块
+### Mobile side function module
+
 ![](https://github.com/Design-Thinking/Core-function-display/blob/master/Products/App%E9%80%BB%E8%BE%91.png?raw=true)
 
+### Data Acquisition and Sleep Planning Module
+
 ![](https://github.com/Design-Thinking/Core-function-display/blob/master/Products/%E6%97%A5%E5%B8%B8%E6%95%B0%E6%8D%AE%E4%B8%8E%E7%9D%A1%E7%9C%A0%E8%AE%A1%E5%88%92.png?raw=true)
+
+### Sleep product mall and equipment monitoring module
 
 ![](https://github.com/Design-Thinking/Core-function-display/blob/master/Products/%E7%9D%A1%E7%9C%A0%E4%BA%A7%E5%93%81%E4%B8%8E%E7%9B%91%E6%8E%A7.png?raw=true)
