@@ -1,1 +1,1 @@
-# -Core-function-display
+# Core-function-display
