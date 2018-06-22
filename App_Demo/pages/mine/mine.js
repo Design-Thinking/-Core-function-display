@@ -30,9 +30,9 @@ var tabs = [
 ]
 var userInfo = {
     avatar: "https://pic4.zhimg.com/e515adf3b_xl.jpg",
-    nickname: "小闹钟",
+    nickname: "我的睡眠助手",
     sex: "♂",  // 0, male; 1, female
-    meta: '1篇日记',
+    meta: '小眠',
 }
 
 
