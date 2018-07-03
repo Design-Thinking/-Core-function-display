@@ -51,7 +51,7 @@ Page({
         duration: 2000
       }),
       wx.redirectTo({
-        url: '../mine/mine'
+        url: '/pages/mine/mine'
       })
     }
   }

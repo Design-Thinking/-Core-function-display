@@ -32,7 +32,7 @@ var userInfo = {
     avatar: "https://pic4.zhimg.com/e515adf3b_xl.jpg",
     nickname: "我的睡眠助手",
     sex: "♂",  // 0, male; 1, female
-    meta: '小眠',
+    meta: '——小眠',
 }
 
 
